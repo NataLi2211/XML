@@ -1,1 +1,12 @@
-new
+<bug>
+    <ID>1</ID>,
+<Title>Send Email button return options not related to sending Email</ Title>,
+<Severity>Minor</Severity>,
+<Priority>Low</Priority>,
+<Environment>Samsung Galaxy S9+,  Android 10</Environment>,
+<Precondition>Installed app on the device</Precondition>,
+<STR>1. Open the APP
+         2. Tap “Send Email” button</STR>,
+<AR>App return different links not related to sending email</AR>,
+<ER>App return  links related to sending email</ER>,
+</bug>
